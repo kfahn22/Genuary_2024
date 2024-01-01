@@ -1,6 +1,6 @@
 # Genuary_2024
 
-![Genuary 2024](https://genuary.art)
+[Genuary 2024](https://genuary.art)
 
 ## 🌄 Gallery
 
