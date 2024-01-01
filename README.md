@@ -10,7 +10,7 @@
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href=""> <img class="img" src="assets/genuary01.jpg" alt="Particles, lots of them" style="vertical-align:top;" width="500" /><br /><sub><b>January 1<br/>Particles, lots of them</b></sub></a></td>
+      <td align="center"><a href=""> <img class="img" src="assets/genuary01.png" alt="Particles, lots of them" style="vertical-align:top;" width="500" /><br /><sub><b>January 1<br/>Particles, lots of them</b></sub></a></td>
       <td align="center"><a href=""> <img class="img" src="assets/genuary02.png" alt="No palettes" style="vertical-align:top;" width="500" /><br /><sub><b>January 2<br/>No palettes</b></sub></a></td>
      <td align="center"><a href=""> <img class="img" src="assets/genuary03.png" alt="Droste effect" style=" display: block;
     margin-left: auto;
@@ -96,7 +96,7 @@
     margin-right: auto;" width="500" /><br /><sub><b>January 28<br/> Skeuomorphism</b></sub></a></td>
     </tr>
      <tr>
-      <td align="center"><a href="h"> <img class="img" src="assets/genuary29.png" alt="Signed Distance Functions (if we keep trying once per year, eventually we will be good at it!) style=" display: block;
+      <td align="center"><a href=""> <img class="img" src="assets/genuary29.png" alt="Signed Distance Functions (if we keep trying once per year, eventually we will be good at it!) style=" display: block;
     margin-left: auto;
     margin-right: auto;" width="500" /><br /><sub><b>January 29<br/> Signed Distance Functions (if we keep trying once per year, eventually we will be good at it!)</b></sub></a></td>
       <td align="center"><a href=""> <img class="img" src="assets/genuary30.png" alt=" Shaders" style=" display: block;
